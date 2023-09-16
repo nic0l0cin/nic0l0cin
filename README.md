@@ -14,4 +14,6 @@
 
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
-![tryhackme stats](https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/assets/asha_herro.png)
+ <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
+  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="58" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"></a>
+  
