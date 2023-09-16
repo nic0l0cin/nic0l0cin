@@ -4,5 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I am currently pursuing a degree in CyberSecurity and will use this platform to collate other various projects, including walk-throughs, write-ups, and reports from numerous learning platforms, including TryHackMe and Hack the Box, as well as various CTF challenge spaces. In addition, I will be learning (as part of my curriculum) Linux, Python, and possibly Go, so I hope to use this to collect those projects. I am also completely new to using Github, and thus learning to use this platform as well.
---->
+<!-- Snake animation -->
+<div align="center">
+  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
+  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+</div>
+
+<br>
+
+<!-- TryHackMe Profile and Badges -->
+<div align="center">
