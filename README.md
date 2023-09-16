@@ -14,3 +14,4 @@
 
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
+![tryhackme stats](https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/assets/asha_herro.png)
