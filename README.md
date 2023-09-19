@@ -45,6 +45,7 @@
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/blue"><img title="Blue" alt="TryHackMe badge 17" src="https://tryhackme.com/img/badges/blue.svg" width="70"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/intro-to-web-hacking"><img title="Intro to Web Hacking" alt="TryHackMe badge 18" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="70"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/burped"><img title="Burped" alt="TryHackMe badge 19" src="https://tryhackme.com/img/badges/burpsuite.svg" width="70"></a>
+  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/just-have-to-deal-with-it"><img title="Just Have to Deal With It" alt="TryHackMe badge 20" src="https://tryhackme.com/img/badges/managingincidents.svg" width="70"></a>
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/7-day-streak"><img title="7 Day Streak" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/streak7.svg" width="70"></a>
