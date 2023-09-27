@@ -2,8 +2,8 @@
 * * *
 
 - 👋 Hi, I’m @ne1atonin 
-- 👀 I’m interested in LEARNING - just about anything legitimate that will help me learn to code, write/analyze malware, CTFs, challenges, etc.
-- 🌱 I’m currently learning to hack stuff, break stuff, fix stuff, make stuff, and much more!
+- 👀 I’m interested in LEARNING - just about anything.
+- 🌱 I’m currently learning cybersecurity, hacking, coding, and many other things!
 - 💞️ I’m looking to collaborate on...ask me? 
 
 <!-- Snake animation -->
