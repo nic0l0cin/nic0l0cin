@@ -24,7 +24,7 @@
 
 
 
-  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="55" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"></a>
+  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="65" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"></a>
   
 </div>
 <div align="center">
@@ -46,12 +46,15 @@
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/intro-to-web-hacking"><img title="Intro to Web Hacking" alt="TryHackMe badge 18" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="70"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/burped"><img title="Burped" alt="TryHackMe badge 19" src="https://tryhackme.com/img/badges/burpsuite.svg" width="70"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/just-have-to-deal-with-it"><img title="Just Have to Deal With It" alt="TryHackMe badge 20" src="https://tryhackme.com/img/badges/managingincidents.svg" width="70"></a>
+  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/calculated-risk"><img title="Threats and Risks" alt="TryHackMe badge 22" src="https://tryhackme.com/img/badges/threatsandrisks.svg" width="70"></a>
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/7-day-streak"><img title="7 Day Streak" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/streak7.svg" width="70"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/30-day-streak"><img title="30 Day Streak" alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak30.svg" width="70"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/90-day-streak"><img title="90 Day Streak" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/streak90.svg" width="70"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/180-day-streak"><img title="180 Day Streak" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/streak180.svg" width="70"></a>  
+  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/180-day-streak"><img title="180 Day Streak" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/streak180.svg" width="70"></a>
+  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/365-day-streak"><img title="365 Day Streak" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/streak365.svg" width="70"></a>
+  
 <div align="center">
 </div>
 <br>
