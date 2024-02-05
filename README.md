@@ -1,11 +1,13 @@
 <div align="center"> 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=900&color=BF0D5A&center=true&multiline=true&random=false&width=475&height=300&lines=Hello!;and;Welcome+to...;...my+work+in+progress.;I'm+a+cybersecurity+enthusiast...;...and+current+student.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=BF0D5A&center=true&multiline=true&random=false&width=475&height=300&repeat=false&lines=Hello!;Welcome+to...;...my+work+in+progress.;I'm+a+cybersecurity+enthusiast...;...and+current+student.;I+love+learning...;experimenting...;and+tinkering.;Thanks+for+stopping+by.)](https://git.io/typing-svg)
 
 
 </div>
 
-  * * *
+ * * *
+
+
   
 <!-- Snake animation -->
 <div align="center">
