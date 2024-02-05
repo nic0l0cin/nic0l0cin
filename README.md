@@ -67,8 +67,5 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 
 
-
-
-
-
 <br>
+
