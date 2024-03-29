@@ -15,7 +15,7 @@
   
 #### TryHackMe Profile and Badges
 
-  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="60" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"></a>
+  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="61" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"> </a>
   
 </div>
 <div align="center">
