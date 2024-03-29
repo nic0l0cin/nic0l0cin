@@ -1,11 +1,18 @@
-<div align="center"> 
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=BF0D5A&center=true&multiline=true&random=false&width=475&height=300&repeat=false&lines=Hello!;Welcome+to...;...my+profile.;I'm+a+cybersecurity+enthusiast...;...and+current+student.;I+love+learning...;experimenting...;and+tinkering.;Thanks+for+stopping+by.)](https://git.io/typing-svg)
-
-
-</div>
-
+ <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&size=17&pause=1000&color=F700EE&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=415&height=57&lines=Hello!+I'm+Nicole%2C+aka+nelatonin...;Thanks+for+stopping+by!)](https://git.io/typing-svg)
+ 
+ </div>
+ 
 * * *
+
+I am a...
+
+Cyber Security Enthusiast, student and aspiring professional!
+
+- I'm currently studying basic assembly, C and Python... 
+- I love learning, and learning, and learning...
+- I am working on developing my own theme for a blog using HUGO, the static site generator (if you can help I have needs!)...
 
 * * *
 
@@ -15,7 +22,7 @@
   
 #### TryHackMe Profile and Badges
 
-  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="61" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"> </a>
+  <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="61" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png?9" alt="TryHackMe"></a>
   
 </div>
 <div align="center">
@@ -70,5 +77,4 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 * * *
 
-<br>
 
