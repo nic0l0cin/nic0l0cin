@@ -20,7 +20,7 @@ Cyber Security Enthusiast, student and aspiring professional!
 
 <div align="center">
   
-#### TryHackMe Profile and Badges
+### TryHackMe Profile and Badges
 
   <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="61" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png?9" alt="TryHackMe"></a>
   
