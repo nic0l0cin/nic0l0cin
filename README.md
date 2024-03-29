@@ -8,23 +8,12 @@
 * * *
 
 * * *
-  
-<!-- Snake animation -->
-<div align="center">
-  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
-  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
-
-* * * 
-
-<br>
 
 <!-- TryHackMe Profile and Badges -->
 
 <div align="center">
   
-### TryHackMe Profile and Badges
-
+#### TryHackMe Profile and Badges
 
   <a target="_blank" href="https://tryhackme.com/p/asha.herro"><img height="60" title="My TryHackMe Profile" alt="TryHackMe asha.herro Profile" src="https://tryhackme-badges.s3.amazonaws.com/asha.herro.png" alt="TryHackMe"></a>
   
@@ -56,9 +45,11 @@
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/90-day-streak"><img title="90 Day Streak" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/streak90.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/180-day-streak"><img title="180 Day Streak" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/streak180.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/asha.herro/badges/365-day-streak"><img title="365 Day Streak" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/streak365.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/365-day-streak"><img title="365 Day Streak" alt="TryHackMe badge 23" src="https://tryhackme.com/img/badges/streak500.svg" width="55"></a>
+  
   
 <div align="center">
-</div>
+
 <br>
 
 TryHackMe has an ample offering of free rooms to practice and build up that muscle memory. While the free rooms are great, it's nice to have extra time to work through some of the more challenging, progressive rooms. Especially on those days when your brain is working, and you feel good working through a room.
@@ -67,7 +58,17 @@ Having said all of that, if you're interested in a subscription, please check ou
 
 [TryHackMe Referral Link](https://tryhackme.com/signup?referrer=62699f55803f010054892aa0)
 
+</div>
 
+* * *
+
+<!-- Snake animation -->
+<div align="center">
+  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
+  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/ne1atonin/ne1atonin/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+</div>
+
+* * *
 
 <br>
 
