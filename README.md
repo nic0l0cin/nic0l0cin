@@ -26,17 +26,17 @@ Cyber Security Enthusiast, student and aspiring professional!
   
 </div>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/linux.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/networking-nerd"><img title="Network Fundamentals" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/webbed"><img title="Webbed" alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/webbed.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/world-wide-web"><img title="How The Web Works" alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/howthewebworks.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/intro-to-pentesting"><img title="Pentesting Principles" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/adventofcyber4"><img title="Advent of Cyber 4" alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/wireshark"><img title="Wireshark" alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/wireshark.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/security-awareness"><img title="Security Awareness" alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/securityawareness.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/owasp-10"><img title="OWASP Top 10" alt="TryHackMe badge 12" src="https://tryhackme.com/img/badges/owasptop10.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/asha.herro/badges/hash-cracker"><img title="Hash Cracker" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/hashcracker.svg" width="55"></a>
- <a target="_blank" href="https://tryhackme.com/asha.herro/badges/metasploitable"><img title="Metasploitable" alt="TryHackMe badge 16" src="https://tryhackme.com/img/badges/metasploit.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/linux.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/networking-nerd"><img title="Network Fundamentals" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/webbed"><img title="Webbed" alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/webbed.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/world-wide-web"><img title="How The Web Works" alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/howthewebworks.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/intro-to-pentesting"><img title="Pentesting Principles" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/adventofcyber4"><img title="Advent of Cyber 4" alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/wireshark"><img title="Wireshark" alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/wireshark.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/security-awareness"><img title="Security Awareness" alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/securityawareness.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/owasp-10"><img title="OWASP Top 10" alt="TryHackMe badge 12" src="https://tryhackme.com/img/badges/owasptop10.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/hash-cracker"><img title="Hash Cracker" alt="TryHackMe badge 14" src="https://tryhackme.com/img/badges/hashcracker.svg" width="55"></a>
+ <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/metasploitable"><img title="Metasploitable" alt="TryHackMe badge 16" src="https://tryhackme.com/img/badges/metasploit.svg" width="55"></a>
   </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/linux-privesc"><img title="Linux PrivEsc" alt="TryHackMe badge 13" src="https://tryhackme.com/img/badges/linuxprivesc.svg" width="55"></a>
