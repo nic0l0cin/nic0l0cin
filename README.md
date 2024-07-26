@@ -55,8 +55,7 @@ Cyber Security Enthusiast, student and aspiring professional!
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/90-day-streak"><img title="90 Day Streak" alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/streak90.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/180-day-streak"><img title="180 Day Streak" alt="TryHackMe badge 15" src="https://tryhackme.com/img/badges/streak180.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/365-day-streak"><img title="365 Day Streak" alt="TryHackMe badge 21" src="https://tryhackme.com/img/badges/streak365.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/365-day-streak"><img title="500 Day Streak" alt="TryHackMe badge 23" src="https://tryhackme.com/img/badges/streak500.svg" width="55"></a>
-  
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/500-day-streak"><img title="500 Day Streak" alt="TryHackMe badge 23" src="https://tryhackme.com/img/badges/streak500.svg" width="55"></a>
   
 <div align="center">
 
