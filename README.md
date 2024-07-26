@@ -27,7 +27,7 @@ Cyber Security Enthusiast, student and aspiring professional!
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/terminaled"><img title="cat linux.txt" alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/linux.svg" width="55"></a>
-  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/networking-nerd"><img title="Network Fundamentals" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="55"></a>
+  <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/network-fundamentals"><img title="Networking Nerd" alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/web-fund"><img title="Webbed" alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/webbed.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/world-wide-web"><img title="How The Web Works" alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/howthewebworks.svg" width="55"></a>
   <a target="_blank" href="https://tryhackme.com/nic0l0cin/badges/intro-to-pentesting"><img title="Pentesting Principles" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="55"></a>
